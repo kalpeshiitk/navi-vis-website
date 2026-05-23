@@ -46,3 +46,12 @@ The website intentionally uses "RA-review-ready", "evidence readiness", and "sou
 ## Logo update
 
 This package uses the supplied official Navi-vis logo image as `assets/navi-vis-logo.png`. The header and footer wrap the logo in a light logo plate so it remains legible on the dark navy site theme.
+
+
+## Contact form delivery
+
+The public contact form now posts to FormSubmit using `contact@navi-vis.tech` as the recipient. This makes the static site form work without a custom backend. On the first real submission, FormSubmit may send an activation/confirmation email to `contact@navi-vis.tech`; confirm it to start receiving inquiries.
+
+The form includes a production thank-you redirect: `https://navi-vis.tech/thank-you.html`. If you deploy to a temporary preview URL, update the hidden `_next` field in `index.html` to match your preview thank-you page, or remove `_next` to use the provider's default confirmation page.
+
+Do not ask users to upload confidential regulatory evidence through the public website form. Use the form only for inquiry and pilot scoping requests.

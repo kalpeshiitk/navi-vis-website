@@ -206,7 +206,12 @@
           <h2>Evaluate PathClear with your SaMD evidence pack.</h2>
           <p>Request a pilot or share your use case. We will scope the workflow around evidence readiness, requirement coverage, and RA/QA review.</p>
         </div>
-        <form class="contact-form" action="mailto:contact@navi-vis.tech" method="post" enctype="text/plain">
+        <form class="contact-form" action="https://formsubmit.co/contact@navi-vis.tech" method="POST">
+          <input type="hidden" name="_subject" value="New Navi-vis / PathClear pilot inquiry" />
+          <input type="hidden" name="_template" value="table" />
+          <input type="hidden" name="_captcha" value="false" />
+          <input type="hidden" name="_next" value="https://navi-vis.tech/thank-you.html" />
+          <input type="text" name="_honey" class="hidden-field" tabindex="-1" autocomplete="off" />
           <label>
             Name
             <input type="text" name="name" placeholder="Your name" required />
@@ -217,10 +222,10 @@
           </label>
           <label>
             Message
-            <textarea name="message" rows="4" placeholder="Tell us about your device, pathway, and evidence pack."></textarea>
+            <textarea name="message" rows="4" placeholder="Tell us about your device, pathway, and evidence pack." required></textarea>
           </label>
           <button class="button primary" type="submit">Send inquiry</button>
-          <p class="form-note">You can also email us directly at <a href="mailto:contact@navi-vis.tech">contact@navi-vis.tech</a>.</p>
+          <p class="form-note">Submissions are sent to <a href="mailto:contact@navi-vis.tech">contact@navi-vis.tech</a>. The first submission may require email activation from the form provider.</p>
         </form>
       </div>
     </section>
