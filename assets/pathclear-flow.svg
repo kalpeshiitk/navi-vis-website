@@ -1,0 +1,73 @@
+<svg width="1100" height="600" viewBox="0 0 1100 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1100" height="600" rx="28" fill="#07111F"/>
+<g opacity="0.6">
+  <circle cx="220" cy="115" r="90" fill="#14B8A6" fill-opacity="0.10"/>
+  <circle cx="760" cy="480" r="160" fill="#38BDF8" fill-opacity="0.08"/>
+  <circle cx="990" cy="120" r="120" fill="#14B8A6" fill-opacity="0.08"/>
+</g>
+<g font-family="Inter, Arial, sans-serif">
+  <text x="56" y="70" fill="#F8FAFC" font-size="28" font-weight="800">PathClear Evidence-to-Draft Workflow</text>
+  <text x="56" y="105" fill="#94A3B8" font-size="16">Messy source evidence becomes source-linked, RA-review-ready draft outputs.</text>
+</g>
+<g stroke="#1E3A4A" stroke-width="2">
+  <path d="M230 215C330 215 350 215 450 215"/>
+  <path d="M640 215C740 215 760 215 860 215"/>
+  <path d="M230 395C330 395 350 395 450 395"/>
+  <path d="M640 395C740 395 760 395 860 395"/>
+  <path d="M545 260V350"/>
+</g>
+<g font-family="Inter, Arial, sans-serif">
+  <g transform="translate(56 155)">
+    <rect width="180" height="120" rx="18" fill="#0F172A" stroke="#1E293B"/>
+    <text x="22" y="38" fill="#43E8D5" font-size="15" font-weight="700">1. Upload</text>
+    <text x="22" y="66" fill="#E2E8F0" font-size="14">PDFs, DOCX,</text>
+    <text x="22" y="86" fill="#E2E8F0" font-size="14">XLSX, images,</text>
+    <text x="22" y="106" fill="#E2E8F0" font-size="14">evidence folders</text>
+  </g>
+  <g transform="translate(452 155)">
+    <rect width="190" height="120" rx="18" fill="#0F172A" stroke="#1E293B"/>
+    <text x="22" y="38" fill="#43E8D5" font-size="15" font-weight="700">2. Map</text>
+    <text x="22" y="66" fill="#E2E8F0" font-size="14">FDA requirement</text>
+    <text x="22" y="86" fill="#E2E8F0" font-size="14">slots to source</text>
+    <text x="22" y="106" fill="#E2E8F0" font-size="14">evidence chunks</text>
+  </g>
+  <g transform="translate(862 155)">
+    <rect width="205" height="120" rx="18" fill="#0F172A" stroke="#1E293B"/>
+    <text x="22" y="38" fill="#43E8D5" font-size="15" font-weight="700">3. Find Gaps</text>
+    <text x="22" y="66" fill="#E2E8F0" font-size="14">Covered, partial,</text>
+    <text x="22" y="86" fill="#E2E8F0" font-size="14">missing, or</text>
+    <text x="22" y="106" fill="#E2E8F0" font-size="14">conflicting</text>
+  </g>
+  <g transform="translate(56 335)">
+    <rect width="180" height="120" rx="18" fill="#0F172A" stroke="#1E293B"/>
+    <text x="22" y="38" fill="#43E8D5" font-size="15" font-weight="700">4. Trace</text>
+    <text x="22" y="66" fill="#E2E8F0" font-size="14">Claim → source</text>
+    <text x="22" y="86" fill="#E2E8F0" font-size="14">document, page,</text>
+    <text x="22" y="106" fill="#E2E8F0" font-size="14">table, chunk</text>
+  </g>
+  <g transform="translate(452 335)">
+    <rect width="190" height="120" rx="18" fill="#0F172A" stroke="#1E293B"/>
+    <text x="22" y="38" fill="#43E8D5" font-size="15" font-weight="700">5. Review</text>
+    <text x="22" y="66" fill="#E2E8F0" font-size="14">RA/QA approves,</text>
+    <text x="22" y="86" fill="#E2E8F0" font-size="14">edits, rejects,</text>
+    <text x="22" y="106" fill="#E2E8F0" font-size="14">or locks</text>
+  </g>
+  <g transform="translate(862 335)">
+    <rect width="205" height="120" rx="18" fill="#0F172A" stroke="#1E293B"/>
+    <text x="22" y="38" fill="#43E8D5" font-size="15" font-weight="700">6. Export</text>
+    <text x="22" y="66" fill="#E2E8F0" font-size="14">Draft package,</text>
+    <text x="22" y="86" fill="#E2E8F0" font-size="14">matrix, gaps,</text>
+    <text x="22" y="106" fill="#E2E8F0" font-size="14">audit trail</text>
+  </g>
+</g>
+<g opacity="0.9">
+  <circle cx="250" cy="215" r="5" fill="#43E8D5"/>
+  <circle cx="450" cy="215" r="5" fill="#43E8D5"/>
+  <circle cx="642" cy="215" r="5" fill="#43E8D5"/>
+  <circle cx="862" cy="215" r="5" fill="#43E8D5"/>
+  <circle cx="250" cy="395" r="5" fill="#43E8D5"/>
+  <circle cx="450" cy="395" r="5" fill="#43E8D5"/>
+  <circle cx="642" cy="395" r="5" fill="#43E8D5"/>
+  <circle cx="862" cy="395" r="5" fill="#43E8D5"/>
+</g>
+</svg>

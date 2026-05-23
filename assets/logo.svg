@@ -1,0 +1,17 @@
+<svg width="220" height="48" viewBox="0 0 220 48" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<title id="title">Navi-vis logo</title>
+<desc id="desc">Navi-vis wordmark with connected evidence nodes</desc>
+<rect width="48" height="48" rx="14" fill="url(#g)"/>
+<path d="M15 31L22 14L28 27L35 18" stroke="#062128" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="22" cy="14" r="3.2" fill="#E8FFFB"/>
+<circle cx="28" cy="27" r="3.2" fill="#E8FFFB"/>
+<circle cx="35" cy="18" r="3.2" fill="#E8FFFB"/>
+<text x="62" y="31" fill="#E6F7F6" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="750" letter-spacing="-0.04em">Navi-vis</text>
+<text x="154" y="31" fill="#43E8D5" font-family="Inter, Arial, sans-serif" font-size="24" font-weight="750" letter-spacing="-0.04em">.tech</text>
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="48" y2="48" gradientUnits="userSpaceOnUse">
+<stop stop-color="#44F1DD"/>
+<stop offset="1" stop-color="#3EA2FF"/>
+</linearGradient>
+</defs>
+</svg>
